@@ -17,4 +17,7 @@ https://github.com/FIRST-Tech-Challenge/FtcRobotController
 
 Your code goes in TeamCode/src/main/java/org/firstinspires/ftc/teamcode.
 
-The project includes a wide variety of support for your robot code. In case you want to use additional libraries such as road runner, add references to TeamCode/build.gradle according to the project's instructions.
+The driver station allows the user to choose an OpMode to run. Think of an OpMode as a program. OpModes are subclassed from OpMode or LinearOpMode. The latter provides helper methods to aid in managing your control loop.
+
+# 3rd Party Libraries
+The base FTC project includes a wide variety of support for your robot code. If you want to use additional libraries such as road runner, add references to TeamCode/build.gradle according to the 3rd party library's instructions.
