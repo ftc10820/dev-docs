@@ -38,3 +38,13 @@ Use the driver station to connect to the robot's Control Hub. After a connection
 
 ## 3rd Party Libraries
 The base FTC project includes a wide variety of support for your robot code. If you want to use additional libraries such as road runner, add references to TeamCode/build.gradle according to the 3rd party library's instructions.
+
+### Road Runner
+Road Runner is a popular open source odometry/path planning project for FTC. It is maintained by FTC Team 8367 (Acme Robotics) at:
+https://github.com/acmerobotics/road-runner
+
+There is excellent tuning advice using Road Runner at:
+https://learnroadrunner.com/
+
+
+
