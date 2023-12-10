@@ -28,7 +28,8 @@ To compile your code, use the Build > Rebuild Project menu item. This will pull 
 ### Deploy
 You must be connected to the Control Hub to deploy your code to the robot. You can use a USB cable with the Control Hub's USB-C port to connect your computer to the Control Hub.
 
-The Control Hub must be set up to allow deployment over wi-fi: https://docs.revrobotics.com/duo-control/programming/android-studio-using-wireless-adb
+The Control Hub must be set up to allow deployment over wi-fi:
+https://docs.revrobotics.com/duo-control/programming/android-studio-using-wireless-adb
 
 To deploy code after building, click the green arrow next to "Team Code" in the center top of the Android Studio window.
 
