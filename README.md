@@ -19,5 +19,7 @@ Your code goes in TeamCode/src/main/java/org/firstinspires/ftc/teamcode.
 
 The driver station allows the user to choose an OpMode to run. Think of an OpMode as a program. OpModes are subclassed from OpMode or LinearOpMode. The latter provides helper methods to aid in managing your control loop.
 
+There are many examples in FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller to help you get started.
+
 # 3rd Party Libraries
 The base FTC project includes a wide variety of support for your robot code. If you want to use additional libraries such as road runner, add references to TeamCode/build.gradle according to the 3rd party library's instructions.
