@@ -12,3 +12,9 @@ At a minimum, you will need:
 3. a driver station
 
 
+Your robot project should be a clone of:
+https://github.com/FIRST-Tech-Challenge/FtcRobotController
+
+Your code goes in TeamCode/src/main/java/org/firstinspires/ftc/teamcode.
+
+The project includes a wide variety of support for your robot code. In case you want to use additional libraries such as road runner, add references to TeamCode/build.gradle according to the project's instructions.
