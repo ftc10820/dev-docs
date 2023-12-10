@@ -21,5 +21,12 @@ The driver station allows the user to choose an OpMode to run. Think of an OpMod
 
 There are many examples in FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller to help you get started.
 
-# 3rd Party Libraries
+## Compile, Deploy and Run
+To compile your code, use the Build > Rebuild Project menu item. This will pull in any additional project references automatically.
+
+You must be connected to the Control Hub to deploy your code to the robot. You can use a USB cable with the Control Hub's USB-C port to connect your computer to the Control Hub.
+
+The Control Hub must be set up to allow deployment over wi-fi: https://docs.revrobotics.com/duo-control/programming/android-studio-using-wireless-adb
+
+## 3rd Party Libraries
 The base FTC project includes a wide variety of support for your robot code. If you want to use additional libraries such as road runner, add references to TeamCode/build.gradle according to the 3rd party library's instructions.
